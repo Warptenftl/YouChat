@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#383759</color>
+    <color name="colorPrimaryDark">#282840</color>
+    <color name="colorAccent">#8591bd</color>
+
+    <!-- region solid color-->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#0000ff</color>
+    <!-- endregion-->
+    <!-- region transparent (opacity)-->
+    <color name="transparent_grey">#80000000</color>
+    <color name="transparent">#66000000</color>
+    <color name="transparent_white">#ccffffff</color>
+    <color name="shadow_color">#cadddddd</color>
+    <!-- endregion-->
+    <!-- region color support-->
+    <color name="colorPrimaryLight">#00C8AF</color>
+    <color name="colorAccentLight">#E2FFC7</color>
+    <!-- endregion-->
+
+</resources>

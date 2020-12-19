@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "448559546483",
+    "firebase_url": "https://adniwhatsappclone.firebaseio.com",
+    "project_id": "adniwhatsappclone",
+    "storage_bucket": "adniwhatsappclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448559546483:android:70ecfc2f315026fb08ea06",
+        "android_client_info": {
+          "package_name": "com.idn.adniwhatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448559546483-vo4ug0hffrr0f6c8mbe05ohadombgbi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idn.adniwhatsappclone",
+            "certificate_hash": "800f567a1b6640229fc664d482ea535e0017eda4"
+          }
+        },
+        {
+          "client_id": "448559546483-lp1upkpjgpb73vmov7ib1iqi6smg58vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOh3jU93uqpnudY91CeDUI7CZb0XOygqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448559546483-lp1upkpjgpb73vmov7ib1iqi6smg58vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
